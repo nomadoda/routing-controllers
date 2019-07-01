@@ -12,4 +12,4 @@ const app = createExpressServer({
 });
 app.listen(3001);
 
-console.log("Koa server is running on port 3001. Open http://localhost:3001/blogs/");
+console.log("Express server is running on port 3001. Open http://localhost:3001/blogs/");
